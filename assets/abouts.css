@@ -5,4 +5,8 @@ html{
   background-repeat: no-repeat;
   border: 0;
   }
-}
+  img{
+    height: 160px;
+     width: 160px;
+     border-radius: 50%;
+  }
