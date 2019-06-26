@@ -1,0 +1,12 @@
+html{
+  background-image: url("../images/mactop.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border: 0;
+  }
+  img{
+    height: 160px;
+     width: 160px;
+     border-radius: 50%;
+  }
