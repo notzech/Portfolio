@@ -5,9 +5,15 @@ html{
   background-repeat: no-repeat;
   border: 0;
   }
+
   img{
     height: 160px;
      width: 160px;
      border-radius: 50%;
   }
-font-family: 'B612 Mono', monospace;
+
+.head{
+  margin:auto;
+  width: 60%;
+  border: 0;
+}

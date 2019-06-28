@@ -33,5 +33,20 @@
 
 #contact {
   top: 200px;
-  background-color: Black
+  background-color: Black;
+}
+
+h1{
+  font-family: 'Work Sans', sans-serif;
+  text-align: center;
+  margin: 0;
+}
+
+html{
+  height: 100%
+}
+
+body{
+  overflow: hidden;
+  height: 100%
 }
