@@ -8,7 +8,6 @@ border: 0;
 
 h1{
   font-family: 'Work Sans', sans-serif;
-
 text-align: center;
 color: white;
 }
@@ -27,4 +26,5 @@ img{
 }
 h1{
   color: white;
+  font-size: 60px;
 }
