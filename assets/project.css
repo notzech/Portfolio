@@ -14,3 +14,22 @@ h1{
   color: white;
   font-size: 60px;
 }
+.snake{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.zoom {
+  height: 300px;
+  overflow: hidden;
+}
+
+
+.zoom img {
+  transition: transform 5s ease;
+}
+
+.zoom:hover img {
+  transform: scale(1.5);
+}

@@ -50,7 +50,7 @@ body{
   overflow: hidden;
   height: 100%
 }
-/* .background{
+.background{
   top: 0;
   left: 0;
   margin: 0;
@@ -58,7 +58,7 @@ body{
   width: 100%;
   height: 100%;
   z-index: -1;
-} */
+}
 .me{
   height: 160px;
    width: 160px;
